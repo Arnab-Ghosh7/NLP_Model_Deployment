@@ -40,7 +40,7 @@ NLP_Model_Deployment/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/NLP_Model_Deployment.git
+    git clone https://github.com/Arnab-Ghosh7/NLP_Model_Deployment
     cd NLP_Model_Deployment
     ```
 
