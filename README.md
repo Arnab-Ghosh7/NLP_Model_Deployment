@@ -77,3 +77,6 @@ The application trains a **Multinomial Naive Bayes** classifier on startup using
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Author
+Arnab Ghosh
