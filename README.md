@@ -1,9 +1,6 @@
 # NLP Model Deployment - SMS Spam Validator
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Flask](https://img.shields.io/badge/Flask-Web%20Framework-lightgrey)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
+
 
 
 In the digital age, unwanted SMS spam is a growing nuisance and security risk. This project provides a robust solution by deploying a machine learning model capable of distinguishing between legitimate (Ham) and spam messages with high accuracy.
