@@ -6,10 +6,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 
 
-In the digital age, unwanted SMS spam is a growing nuisance and security risk. This project provides a robust solution by deploying a machine learning model capable of distinguishing between legitimate (Ham) and spam messages with high accuracy.
-
-Leveraging the power of **Natural Language Processing (NLP)**, the application processes raw text, extracts meaningful features, and classifies messages in real-time. The solution is wrapped in a lightweight **Flask** web application, making it accessible and easy to use via a clean web interface.
-
 
 ## 🚀 Features
 
