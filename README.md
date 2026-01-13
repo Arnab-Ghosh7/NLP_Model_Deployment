@@ -76,5 +76,11 @@ The application trains a **Multinomial Naive Bayes** classifier on startup using
 - **Training**: The model is trained on 67% of the data, with 33% reserved for testing (internal validation).
 
 
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 ## Author
 Arnab Ghosh
